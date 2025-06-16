@@ -140,9 +140,8 @@ We’ll be logging in as both **end users** and **agents** to simulate how ticke
 - Try enabling and testing the **email features** for notifications and replies.
 - **Repeat this lab** a few times until you can confidently implement it with just a checklist.
 - As you build up your technical skills, redoing this lab will boost your confidence and intuition.
-- This exercise ties into the broader **Technical Skill Pillar**:
-  - Understanding systems like osTicket builds a foundation for real-world IT roles.
-  - Get comfortable managing roles, permissions, and the flow of tickets.
+- Understanding systems like osTicket builds a foundation for real-world IT roles.
+ - Get comfortable managing roles, permissions, and the flow of tickets.
 
 > 💡 Each repetition sharpens your technical instincts and prepares you for handling real environments with ease.
 
