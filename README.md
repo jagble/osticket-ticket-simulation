@@ -5,7 +5,6 @@
 </p>
 
 # OsTicket-Ticket-Simulation
-## 🧪 Part 3: Ticket Simulation
 
 In this section, we will simulate real-world usage of the osTicket ticketing system by walking through four different tickets. Each ticket will:
 
